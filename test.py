@@ -1,2 +1,2 @@
-...And another test...
+print("...And another test...")
 #Comment
